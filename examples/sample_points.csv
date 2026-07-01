@@ -1,0 +1,7 @@
+seq,x_mm,y_mm,z_mm,joint_type,fitting_type,fitting_ref,nominal_size,note
+1,0,0,0,end,,,,Piquage depart - collecteur existant
+2,0,0,1500,weld,elbow90,EL-01,,Coude vertical -> horizontal
+3,2000,0,1500,weld,elbow90,EL-02,,Coude changement de direction
+4,2000,1800,1500,flange,valve_gate,VA-014,,Vanne d'isolement bridee
+5,3200,1800,1500,weld,reducer_concentric,RED-01,DN50,Reduction DN80/DN50
+6,3200,1800,0,end,,,,Piquage arrivee - echangeur E-014
